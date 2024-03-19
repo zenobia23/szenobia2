@@ -3,7 +3,7 @@
 
 ### Hello everyone, I'm Zeynep!
 👩🏼‍🚀 Cyber security sharing about my journey and learning in tech <br/>
-🪐 Studied [Management Information Systems] at the University of Ankara
+🪐 Studied [Management Information Systems] at the University of Ankara <br/>
 🌻 #learninginpublic [my digital garden](https://medium.com/@szenobia2)<br/>
 🌷 Currently learning about hacking to [try hack me](https://tryhackme.com/paths)<br/>
 
