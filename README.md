@@ -1,7 +1,7 @@
 <!-- level 0: Simple bio and stats -->
 
 ### Hello everyone, I'm Zeynep!
-👩🏼‍🚀 Cyber security sharing about my journey and learnings in tech <br/>
+👩🏼‍🚀 Cyber security sharing about my journey and learning in tech <br/>
 🪐 Studied [Management Information Systems] at the University of Ankara
 🌻 #learninginpublic [mydigital garden](https://medium.com/@szenobia2)<br/>
 🌷 Currently learning about hacking to [tryhackme](https://tryhackme.com/paths)!<br/>
