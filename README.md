@@ -1,6 +1,6 @@
 <!-- level 0: Simple bio and stats -->
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+
 ### Hello everyone, I'm Zeynep!
 👩🏼‍🚀 Cyber security sharing about my journey and learning in tech <br/>
 🪐 Studied [Management Information Systems] at the University of Ankara
